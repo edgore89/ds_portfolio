@@ -2,4 +2,4 @@
 
 ## Welcome
 
-### Welcome to my data science portfolio. In the folders above are various data science projects that showcase my skills in exploring, visualizing, analyzing, experimenting and modeling with data. 
+### Welcome to my data science portfolio. In the folders above are some of my data science projects that showcase my skills in data analysis, visualization, and machine learning. Below you will see a summary for each project.
