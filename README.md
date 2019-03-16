@@ -15,6 +15,11 @@
 ### Skills Showcased: EDA, data cleaning, data analysis, 
 
 ## Income Prediction
-#### Project Overview: IThis project analyzes census demographic data, which includes data about if a person's income was over or under $50,000 for the year. This analysis was then used to create features to identify the demographic indicators that would then be used in models to predict if a person would earn over or under $50,000. This information could prove valuable because the Income Census Bureau may want to use this model for their annual income data to determine the profile of a person that makes above a certain amount and below a certain amount. They have the data, but may not be able to fully use the data to their advantage. By analyzing it and creating an accurate classification model, we could use it to determine what are the key factors that determine a person's income amount.
+#### Project Overview: This project analyzes census demographic data, which includes data about if a person's income was over or under $50,000 for the year. This analysis was then used to create features to identify the demographic indicators that would then be used in models to predict if a person would earn over or under $50,000. This information could prove valuable because the Income Census Bureau may want to use this model for their annual income data to determine the profile of a person that makes above a certain amount and below a certain amount. They have the data, but may not be able to fully use the data to their advantage. By analyzing it and creating an accurate classification model, we could use it to determine what are the key factors that determine a person's income amount.
 
 ### Skills Showcased: EDA, data cleaning, feature engineering, machine learning, classfication, neural networks
+
+## Text Classification
+#### Project Overview: For this project, I used a NTLK corpus which contains a collection of inaugural speeches given by presidents of the US from 1789 to 2009. I clustered these speeches into sentences in order to create features and classify the text using supervised and unsupervised techniques.
+
+### Skills Showcased: text processing, LSA, Random Forest, logistic regression, classification, NLP
