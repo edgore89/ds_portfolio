@@ -9,8 +9,8 @@
 
 ### Skills Showcased: EDA, data cleaning, feature selection, machine learning, regression
 
-## Health Insurance
-#### Project Overview: Health insurance can be very expensive in the US, so for this project I wanted to determine the profiles of the people who spend the most on health insurance. The data was collected from four different regions in the US and contained information such as sex, age, bmi, smoker/nonsmoker, region, and charges. The goal of this project was to determine who paid the most for health insurance. This information can help people to undestand what leads to higher health insruance costs and how to possible lower costs in the long run.
+## Health Insurance Classification
+#### Project Overview: Health insurance can be very expensive in the US, so for this project I wanted to determine the profiles of the people who spend the most on health insurance. The data was collected from four different regions in the US and contained information such as sex, age, bmi, smoker/nonsmoker, region, and charges. The goal of this project was to determine who paid the most for health insurance. This information can help people to understand what leads to higher health insruance costs and how to possible lower costs in the long run.
 
 ### Skills Showcased: EDA, data cleaning, data analysis, 
 
