@@ -5,7 +5,7 @@
 ### Welcome to my data science portfolio. In the folders above are some of my data science projects that showcase my skills in data analysis, visualization, and machine learning. Below you will see a summary for each project.
 
 ## Black Friday Purchase Amount
-#### Project Overview: For this project, I created a model in order to the predict the amount of a purchase made During Black Friday. The data was collected from one store during Black Friday. I used features such as user ID, product ID, gender, age, and marital status to help make predict the purchase amount. This informatio could prove useful in helping business to determine the profiles of the customers who spend the most during black Friday in order to increase sales for next year.
+#### Project Overview: For this project, I created a model in order to the predict the amount of a purchase made During Black Friday. The data was collected from one store during Black Friday. I used features such as user ID, product ID, gender, age, and marital status to help make predict the purchase amount. This information could prove useful in helping business to determine the profiles of the customers who spend the most during black Friday in order to increase sales for next year.
 
 ### Skills Showcased: EDA, data cleaning, feature selection, machine learning, regression
 
