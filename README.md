@@ -6,7 +6,7 @@
 
 ## Black Friday Purchase Amount
 #### Project Overview: 
-####For this project, I created a model in order to the predict the amount of a purchase made During Black Friday. The data was collected from one store during Black Friday. I used features such as user ID, product ID, gender, age, and marital status to help make predict the purchase amount. This information could prove useful in helping business to determine the profiles of the customers who spend the most during black Friday in order to increase sales for next year.
+#### For this project, I created a model in order to the predict the amount of a purchase made During Black Friday. The data was collected from one store during Black Friday. I used features such as user ID, product ID, gender, age, and marital status to help make predict the purchase amount. This information could prove useful in helping business to determine the profiles of the customers who spend the most during black Friday in order to increase sales for next year.
 
 #### Skills Showcased: EDA, data cleaning, feature selection, machine learning, regression
 
@@ -27,3 +27,9 @@
 #### For this project, I used a NTLK corpus which contains a collection of inaugural speeches given by presidents of the US from 1789 to 2009. I clustered these speeches into sentences in order to create features and classify the text using supervised and unsupervised techniques.
 
 #### Skills Showcased: text processing, LSA, Random Forest, logistic regression, classification, NLP
+
+## Google Playstore App Rating Prediction
+#### Project Overview: 
+#### In this project, I used K-nearest neighbors, random forest, and gradient boosting models to predict the app ratings of various apps in the Google play store.
+
+#### Skills Showcased: EDA, data cleaning, data encoding, data analysis, machine learning, KNN, random forest, gradient boosting, prediction.
